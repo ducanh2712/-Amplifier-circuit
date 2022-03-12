@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NetC6_2 Pin=JP3-1
+Removed Pin From Net: NetName=NetC6_1 Pin=Q2-3
+Removed Pin From Net: NetName=NetC6_1 Pin=Q3-3
+Change Component Footprint: Designator=C6 Old Footprint=CP3/7 New Footprint=CAP1000uF50V
+Change component parameters: Designator = "C6" ("C6"); Footprint = "CP3/7"; UniqueID = "\WEEROSAQ" ("\WEEROSAQ")
+Change component parameters (AddParameter): Name = "1000uF"; Value = "1000uF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC6_1 Pin=JP3-1
+Added Pin To Net: NetName=NetC6_2 Pin=Q2-3
+Added Pin To Net: NetName=NetC6_2 Pin=Q3-3
+Added Room: Name=DTTT_Schematic

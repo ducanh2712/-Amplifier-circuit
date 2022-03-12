@@ -1,0 +1,21 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [DTTT_Project.PrjPcb]
+   Generated File[DTTT_PCB.GTO]
+   Generated File[DTTT_PCB.GTP]
+   Generated File[DTTT_PCB.GTS]
+   Generated File[DTTT_PCB.GTL]
+   Generated File[DTTT_PCB.GBL]
+   Generated File[DTTT_PCB.GBS]
+   Generated File[DTTT_PCB.GBP]
+   Generated File[DTTT_PCB.GBO]
+   Generated File[DTTT_PCB.GKO]
+   Generated File[DTTT_PCB.RUL]
+   Generated File[DTTT_PCB.EXTREP]
+   Generated File[DTTT_PCB.REP]
+
+
+Files Generated   : 12
+Documents Printed : 0
+
+Finished Output Generation At 8:32:27 PM On 2/7/2022

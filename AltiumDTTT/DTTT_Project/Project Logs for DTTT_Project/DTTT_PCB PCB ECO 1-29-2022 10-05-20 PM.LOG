@@ -1,0 +1,22 @@
+Change Component Footprint: Designator=C1 Old Footprint=C10mm New Footprint=CP1/2.5
+Change Component Footprint: Designator=C2 Old Footprint=C10mm New Footprint=CP1/2.5
+Change Component Footprint: Designator=C3 Old Footprint=C10mm New Footprint=CP1/2.5
+Change component parameters: Designator = "C1" ("C1"); Footprint = "C10mm"; UniqueID = "\PQWXZIPH" ("\PQWXZIPH")
+Change component parameters (AddParameter): Name = "Description 1"; Value = "470uF/6,3V - 330uF/10V - 220uF/16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 2"; Value = "100uF/25V - 35V - 47uF/50V - 22uF/100V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 3"; Value = "33uF => 47uF/63V - 1uF => 4,7uF/160V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 4"; Value = "1uF => 2,2uF/250V - 1uF/350V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "47uF/16 - 50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2" ("C2"); Footprint = "C10mm"; UniqueID = "\MVIZUNIM" ("\MVIZUNIM")
+Change component parameters (AddParameter): Name = "Description 1"; Value = "470uF/6,3V - 330uF/10V - 220uF/16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 2"; Value = "100uF/25V - 35V - 47uF/50V - 22uF/100V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 3"; Value = "33uF => 47uF/63V - 1uF => 4,7uF/160V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 4"; Value = "1uF => 2,2uF/250V - 1uF/350V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "47uF/16 - 50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3" ("C3"); Footprint = "C10mm"; UniqueID = "\JWQSNSPV" ("\JWQSNSPV")
+Change component parameters (AddParameter): Name = "Description 1"; Value = "470uF/6,3V - 330uF/10V - 220uF/16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 2"; Value = "100uF/25V - 35V - 47uF/50V - 22uF/100V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 3"; Value = "33uF => 47uF/63V - 1uF => 4,7uF/160V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 4"; Value = "1uF => 2,2uF/250V - 1uF/350V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "47uF/16 - 50V"; VariantName = "[No Variations]"
+Added Room: Name=DTTT_Schematic

@@ -1,0 +1,36 @@
+Removed Pin From Net: NetName=NetC4_2 Pin=C4-2
+Removed Pin From Net: NetName=NetC5_2 Pin=C5-2
+Removed Member From Class: ClassName=DTTT_Schematic Member=C4
+Removed Member From Class: ClassName=DTTT_Schematic Member=C5
+Added Component: Designator=C?(CP1/2.5)
+Add component (AddParameter): Name = "Description 1"; Value = "470uF/6,3V - 330uF/10V - 220uF/16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 2"; Value = "100uF/25V - 35V - 47uF/50V - 22uF/100V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 3"; Value = "33uF => 47uF/63V - 1uF => 4,7uF/160V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 4"; Value = "1uF => 2,2uF/250V - 1uF/350V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47uF/16 - 50V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CP2/4)
+Add component (AddParameter): Name = "Description 1"; Value = "4700uF-6800uF/6,3V - 3300uF-4700uF/10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 2"; Value = "2200uF-3300uF/16V - 470uF => 2200uF/25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 3"; Value = "1000uF/35V-50V_470uF/63V_220uF>330uF/100V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 4"; Value = "47uF => 100uF/160V - 33uF-47uF/250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 5"; Value = "47uF/200V - 22uF/350V - 400V - 10uF/450V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2200uF/16V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CP1/2.5)
+Add component (AddParameter): Name = "Description 1"; Value = "470uF/6,3V - 330uF/10V - 220uF/16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 2"; Value = "100uF/25V - 35V - 47uF/50V - 22uF/100V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 3"; Value = "33uF => 47uF/63V - 1uF => 4,7uF/160V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 4"; Value = "1uF => 2,2uF/250V - 1uF/350V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47uF/16 - 50V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC4_2 Pin=C?-2
+Added Pin To Net: NetName=NetC5_2 Pin=C?-2
+Change Net Name : Old Net Name=NetC4_2 New Net Name=NetC?_2
+Change Net Name : Old Net Name=NetC5_2 New Net Name=NetC?_2
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=Q1-3
+Added Pin To Net: NetName=NetC?_1 Pin=R8-2
+Added Net: Name=NetC?_1
+Added Member To Class: ClassName=DTTT_Schematic Member=Component C? 100uF
+Added Member To Class: ClassName=DTTT_Schematic Member=Component C? 2200uF/16V
+Added Member To Class: ClassName=DTTT_Schematic Member=Component C? 100uF
+Added Room: Name=DTTT_Schematic

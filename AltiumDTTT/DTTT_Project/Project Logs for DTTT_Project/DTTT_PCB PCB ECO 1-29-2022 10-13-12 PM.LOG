@@ -1,0 +1,28 @@
+Change Component Footprint: Designator=C? Old Footprint=CP3/7 New Footprint=CP1.5/3.4
+Change Component Comment : Designator=C? Old Comment=4700uF/16V New Comment=1000uF/16V
+Change component parameters: Designator = "C?" ("C?"); Footprint = "CP3/7"; UniqueID = "\HRUXNLUS" ("\HRUXNLUS")
+Change component parameters (AddParameter): Name = "Description 1"; Value = "2200uF-3300uF/6,3V - 1000uF-2200uF/10V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 2"; Value = "1000uF/16V - 470uF => 1000uF/25V - 100uF/100V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 3"; Value = "330uF>470uF/35V_220uF>470uF/50V_10uF>22uF/250V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 4"; Value = "220uF => 330uF/63V - 10uF =>33uF/160 - 200V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 5"; Value = "4,7uF>10uF/250V_3,3uF>10uF/400V - 2,2uF>4,7uF/450V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1000uF/16V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CP3/7)
+Add component (AddParameter): Name = "Description 1"; Value = "10KuF=>22KuF/6,3V - 6800uF=>15KuF/10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 2"; Value = "4700uF=>10KuF/16V - 3300uF => 6800uF/25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 3"; Value = "2200uF=>3300uF/50V_1KuF=>2200uF/63V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 4"; Value = "470uF => 1KuF/100V - 220uF-470uF/160V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 5"; Value = "100uF=>220uF/200V -100uF=>330uF/350V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 6"; Value = "33uF=>100/350V-400V  -  22uF=>33uF/450V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2200uF/16V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CP2/4)
+Add component (AddParameter): Name = "Description 1"; Value = "4700uF-6800uF/6,3V - 3300uF-4700uF/10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 2"; Value = "2200uF-3300uF/16V - 470uF => 2200uF/25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 3"; Value = "1000uF/35V-50V_470uF/63V_220uF>330uF/100V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 4"; Value = "47uF => 100uF/160V - 33uF-47uF/250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 5"; Value = "47uF/200V - 22uF/350V - 400V - 10uF/450V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2200uF/16V"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=DTTT_Schematic Member=Component C? 4700uF/16V
+Added Member To Class: ClassName=DTTT_Schematic Member=Component C? 100uF
+Added Member To Class: ClassName=DTTT_Schematic Member=Component C? 2200uF/16V
+Added Member To Class: ClassName=DTTT_Schematic Member=Component C? 100uF
